@@ -16,17 +16,17 @@ body,
 html {
 	min-height: 100%;
 	min-width: 600px;
-	background-color: #181a1d;
+	background-color: #ffffff;
 	overflow: hidden;
 	padding: 0px;
 	margin: 0px;
-	color: #00dd00;
+	color: #2a352a;
 }
 
 .good 		{ color: #99ff99; }
 .bad 		{ color: #ff7777; }
 .info 		{ color: #99ffff; }
-.neutral	{ color: #eeeeee; }
+.neutral	{ color: #000000; }
 
 /*------------------------------------*\
 	CHAT

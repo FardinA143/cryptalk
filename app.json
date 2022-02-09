@@ -1,5 +1,5 @@
 {
-  "name": "Cryptalk",
+  "name": "FargoChat",
   "description": "Client side (E2EE) encrypted instant chat",
   "keywords": [
     "cryptalk",
@@ -12,5 +12,5 @@
     "chat",
     "e2ee"
   ],
-  "repository": "https://github.com/Hexagon/cryptalk"
+  "repository": "https://github.com/FardinA143/cryptalk"
 }
